@@ -10,7 +10,7 @@ png('plot3.png',
 plot(powerCons$DateTime, 
           powerCons$Sub_metering_1, 
           xlab = "",
-          ylab = "Global Active Power (kilowatts)",
+          ylab = "Energy Sub Metering",
           type="l",
           col="black")
 

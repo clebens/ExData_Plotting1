@@ -27,7 +27,7 @@ with(powerCons, {
     plot(powerCons$DateTime, 
         powerCons$Sub_metering_1, 
         xlab = "datetime",
-        ylab = "Global Active Power (kilowatts)",
+        ylab = "Energy Sub Metering",
         type="l",
         col="black")
    
