@@ -1,22 +1,32 @@
 # Exploratory Data Analysis - Project 1
-
-## Author
-Colin Lebens
+###Colin Lebens
 
 ## Files
 
-* _loadData.R_: Includes logic for loading source data
-* _plot1.R_: Produces first plot
-* _plot1.png_: Output of second plot
-* _plot2.R_: Produces second plot
-* _plot2.png_: Output of second plot
-* _plot3.R_: Produces third plot
-* _plot3.png_: Output of third plot
-* _plot4.R_: Produces fourth plot
-* _plot4.png_: Output of fourth plot
+* __loadData.R__: Includes logic for loading source data
+* __plot1.R__: Produces first plot
+* __plot1.png__: Output of second plot
+* __plot2.R__: Produces second plot
+* __plot2.png__: Output of second plot
+* __plot3.R__: Produces third plot
+* __plot3.png__: Output of third plot
+* __plot4.R__: Produces fourth plot
+* __plot4.png__: Output of fourth plot
 
-## Output
+## Plot Output
 
 ### plot1
 
 <img src="plot1.png">
+
+### plot2
+
+<img src="plot2.png">
+
+### plot3
+
+<img src="plot1.png">
+
+### plot4
+
+<img src="plot4.png">
