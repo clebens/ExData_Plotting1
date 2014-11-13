@@ -45,9 +45,9 @@ with(powerCons, {
           bty = "n")
   
     plot(powerCons$DateTime, 
-       powerCons$Global_ractive_power, 
+       powerCons$Global_reactive_power, 
        xlab = "datetime",
-       ylab = "Global_ractive_power",
+       ylab = "Global_reactive_power",
        type="l",
        col="black")
 })
