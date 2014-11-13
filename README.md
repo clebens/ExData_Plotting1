@@ -25,7 +25,7 @@
 
 ### plot3
 
-<img src="plot1.png">
+<img src="plot3.png">
 
 ### plot4
 
