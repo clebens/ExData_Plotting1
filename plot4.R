@@ -1,4 +1,4 @@
-# Load Data
+# Load Data (Note I separated this logic into loadData.R to avoid reusing code...)
 source("./loadData.R")
 powerCons <- loadData()
 
