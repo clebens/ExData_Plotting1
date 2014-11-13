@@ -1,6 +1,6 @@
 # Exploratory Data Analysis - Project 1
 ###Colin Lebens
-
+<hr><br>
 ## Files
 
 * __loadData.R__: Includes logic for loading source data
